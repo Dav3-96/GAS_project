@@ -3,7 +3,7 @@
 
 #include "TDSPlayerState.h"
 #include "AbilitySystemComponent.h"
-#include "TDSHealthSet.h"
+#include "../GASCore/TDSHealthSet.h"
 
 ATDSPlayerState::ATDSPlayerState()
 {

@@ -13,8 +13,8 @@
 #include "AbilitySystemComponent.h"
 #include "TDSPlayerState.h"
 #include "Kismet/KismetMathLibrary.h"
-#include "TDS.h"
-#include "TDSWeapon.h"
+#include "../Core/TDS.h"
+#include "../Weapon/TDSWeapon.h"
 
 DEFINE_LOG_CATEGORY(LogTemplateCharacter);
 

@@ -8,7 +8,7 @@
 #include "AbilitySystemInterface.h"
 #include "GameplayAbilitySpec.h"
 #include "InputActionValue.h"
-#include "TDSGameplayAbility.h"
+#include "../GASCore/TDSGameplayAbility.h"
 #include "TDSCharacter.generated.h"
 
 class USpringArmComponent;

@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "Abilities/GameplayAbility.h"
-#include "TDS.h"
+#include "../Core/TDS.h"
 #include "TDSGameplayAbility.generated.h"
 
 /**

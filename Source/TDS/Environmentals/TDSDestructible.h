@@ -5,7 +5,7 @@
 #include "CoreMinimal.h"
 #include "AbilitySystemComponent.h"
 #include "AbilitySystemInterface.h"
-#include "TDSHealthSet.h"
+#include "../GasCore/TDSHealthSet.h"
 #include "GameFramework/Actor.h"
 #include "TDSDestructible.generated.h"
 

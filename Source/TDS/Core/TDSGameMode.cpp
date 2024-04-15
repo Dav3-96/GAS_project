@@ -1,7 +1,7 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
 #include "TDSGameMode.h"
-#include "TDSCharacter.h"
+#include "../Character/TDSCharacter.h"
 #include "UObject/ConstructorHelpers.h"
 
 ATDSGameMode::ATDSGameMode()
